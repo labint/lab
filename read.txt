@@ -1,0 +1,12 @@
+cc main.c -lGL -lGLU -lglut
+./a.out
+
+f0r 8
+g++ main.cpp -lGL -lGLU -lglut -lm
+
+for 6 use 2
+for pro 3 use 
+points
+
+55 25
+111 86
